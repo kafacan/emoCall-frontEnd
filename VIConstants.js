@@ -1,0 +1,5 @@
+export const APP_NAME = 'emocall' 
+export const ACC_NAME = 'cemhan1' 
+export const VI_ACCOUNT_ID = '6780896'
+export const VI_API_KEY = '2e414b2d-af34-44a8-a765-9ed9c9794237'
+export const VI_APP_ID = '10750286'
