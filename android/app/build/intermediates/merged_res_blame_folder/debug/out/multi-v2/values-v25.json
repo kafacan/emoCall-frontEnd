@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.deneme.app-mergeDebugResources-33:/values-v25/values-v25.xml",
+            "map": [
+                {
+                    "source": "/home/iotiq/.gradle/caches/transforms-3/e34bdca19268bd7370574808ff162af8/transformed/appcompat-1.4.1/res/values-v25/values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        }
+    ]
+}

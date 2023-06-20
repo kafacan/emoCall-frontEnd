@@ -1,0 +1,603 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml:1:1-31:12
+MERGED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml:1:1-31:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /home/iotiq/.gradle/caches/transforms-3/b6d33f9a62cfa7d450f3f0ad5a2c0dd8/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /home/iotiq/.gradle/caches/transforms-3/0d109f1f17a6a23d7bc3a04957576b14/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper:0.125.0] /home/iotiq/.gradle/caches/transforms-3/d21e03783798daec531e6849a2c441a9/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:8:1-18:12
+MERGED from [:react-native-firebase_storage] /home/iotiq/Desktop/my_projects/deneme/node_modules/@react-native-firebase/storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-firebase_app] /home/iotiq/Desktop/my_projects/deneme/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-32:12
+MERGED from [:react-native-record-screen] /home/iotiq/Desktop/my_projects/deneme/node_modules/react-native-record-screen/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-safe-area-context] /home/iotiq/Desktop/my_projects/deneme/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /home/iotiq/Desktop/my_projects/deneme/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] /home/iotiq/Desktop/my_projects/deneme/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-voximplant] /home/iotiq/Desktop/my_projects/deneme/node_modules/react-native-voximplant/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-16:12
+MERGED from [com.facebook.react:react-android:0.71.7] /home/iotiq/.gradle/caches/transforms-3/b5d805e6fac4a5d488eb5747538eef0c/transformed/jetified-react-android-0.71.7-debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/iotiq/.gradle/caches/transforms-3/b231f63c399a8cf01b539c91526f8e9e/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.HBiSoft:HBRecorder:2.0.3] /home/iotiq/.gradle/caches/transforms-3/cd2d6c84914a5b900403a51aa2dfcce6/transformed/jetified-HBRecorder-2.0.3/AndroidManifest.xml:2:1-21:12
+MERGED from [com.google.android.material:material:1.1.0] /home/iotiq/.gradle/caches/transforms-3/ca3b5d8e4992146a6c8fbb503646b02c/transformed/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] /home/iotiq/.gradle/caches/transforms-3/e34bdca19268bd7370574808ff162af8/transformed/appcompat-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.react:hermes-android:0.71.7] /home/iotiq/.gradle/caches/transforms-3/310920b246b9b7cda226571f657a1dc8/transformed/jetified-hermes-android-0.71.7-debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fbjni:fbjni:0.3.0] /home/iotiq/.gradle/caches/transforms-3/b504127fb7404d5f15f62c8c94396299/transformed/jetified-fbjni-0.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:flipper:2.6.0] /home/iotiq/.gradle/caches/transforms-3/b4ec6f36fc34f81a5ee951600890bdf8/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.6.0] /home/iotiq/.gradle/caches/transforms-3/8f292b5afec249da2f3dc81792eb24ae/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.6.0] /home/iotiq/.gradle/caches/transforms-3/0ca138a8f13b02bdc6554fbcbc95c4fa/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.6.0] /home/iotiq/.gradle/caches/transforms-3/b8bf15e8fdefb7ccef3f6110bef7d46f/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /home/iotiq/.gradle/caches/transforms-3/53f8fbb9a36685fbecfbb8e503b6dfbb/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.6.0] /home/iotiq/.gradle/caches/transforms-3/94e574002562d8f6b9263d3fba00022c/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /home/iotiq/.gradle/caches/transforms-3/1d3285725148cc0e67fd3c20b1c7ea94/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /home/iotiq/.gradle/caches/transforms-3/bfd446d3c2d25bacf4fe2acc2f5d6a82/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /home/iotiq/.gradle/caches/transforms-3/fa250aeee92732ec39160dff50abe2ff/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /home/iotiq/.gradle/caches/transforms-3/aa8610a6cb82340fa5c56914d104a750/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.4] /home/iotiq/.gradle/caches/transforms-3/7063df8fe2e18a00584103d3aa8e55d7/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /home/iotiq/.gradle/caches/transforms-3/a35a849ae9ab60baf4981ab8ad555632/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /home/iotiq/.gradle/caches/transforms-3/154ed65c50f985342bc679fa479deb25/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /home/iotiq/.gradle/caches/transforms-3/1efb3cb5861d632bf0e10cd145d84cdf/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /home/iotiq/.gradle/caches/transforms-3/0f0192c98f5adacb6940d0e2a297bc6c/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /home/iotiq/.gradle/caches/transforms-3/2e20abbaa34365fd57eb845f7a8b66d4/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /home/iotiq/.gradle/caches/transforms-3/90255f3429515dfb0327bb2a79864372/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.1.0] /home/iotiq/.gradle/caches/transforms-3/0e72f93d7ff2c15a88079185063e9dca/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth:20.5.0] /home/iotiq/.gradle/caches/transforms-3/ffcafd3eaa32ff36446b402dadc058fa/transformed/jetified-play-services-auth-20.5.0/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-storage:20.2.0] /home/iotiq/.gradle/caches/transforms-3/0f1dfb13e9ccb5997e3333549af51f11/transformed/jetified-firebase-storage-20.2.0/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /home/iotiq/.gradle/caches/transforms-3/1315e6b3d1ca015d7ed3ad94e546e3ba/transformed/jetified-play-services-auth-api-phone-18.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /home/iotiq/.gradle/caches/transforms-3/549c524b90990522ecf16ecd15fa5e80/transformed/jetified-play-services-auth-base-18.0.4/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] /home/iotiq/.gradle/caches/transforms-3/66a72b67e33e205398649ca8592894fd/transformed/jetified-play-services-fido-20.0.1/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /home/iotiq/.gradle/caches/transforms-3/396f64f76eb6785d122862b116ba3673/transformed/jetified-firebase-appcheck-interop-17.0.0/AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/iotiq/.gradle/caches/transforms-3/2bb77963162acec853c76cb58d0069d7/transformed/jetified-firebase-auth-interop-18.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/iotiq/.gradle/caches/transforms-3/8e1e2c5cd2fb100030de4e06dbfe3195/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-common:20.3.2] /home/iotiq/.gradle/caches/transforms-3/e3ce38c13e19ddf3152d54b3430bfde4/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/iotiq/.gradle/caches/transforms-3/0fafd1d97aa3692afd96bd1d63dd93b6/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] /home/iotiq/.gradle/caches/transforms-3/d97108cb315c4029dd632431e49269f2/transformed/jetified-play-services-basement-18.2.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/iotiq/.gradle/caches/transforms-3/42b34990c6d08bbbced8777bc82cc223/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /home/iotiq/.gradle/caches/transforms-3/e0b75d63b72bdd815d5501717dffa203/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /home/iotiq/.gradle/caches/transforms-3/f75c626fc4ace54849ca3855247534db/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/iotiq/.gradle/caches/transforms-3/7c242845e13bc58ef6205b1042a8ef29/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/iotiq/.gradle/caches/transforms-3/19671fc1997f1bc78c4a410bcddde98c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/iotiq/.gradle/caches/transforms-3/e0cc21210d80d107406dd897252daa31/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/iotiq/.gradle/caches/transforms-3/00176e9a8654d0e1775ac1aa6ba6bc9a/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.1.0] /home/iotiq/.gradle/caches/transforms-3/665c2f16c6436908d9886a8875e29763/transformed/jetified-tracing-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:middleware:2.6.0] /home/iotiq/.gradle/caches/transforms-3/1eee9221d628f73f82c2e04b18276bca/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /home/iotiq/.gradle/caches/transforms-3/9047bed1c6e3c27edfc915e9597a0373/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.voximplant:voximplant-sdk:2.35.2] /home/iotiq/.gradle/caches/transforms-3/fa6e6261a3a41c602b68de26b7502491/transformed/jetified-voximplant-sdk-2.35.2/AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.firebase:firebase-components:17.1.0] /home/iotiq/.gradle/caches/transforms-3/ac17b0c0299a8e8624adf8e19151992a/transformed/jetified-firebase-components-17.1.0/AndroidManifest.xml:15:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/iotiq/.gradle/caches/transforms-3/55e227e1e5b81136db6944bb7f214e5b/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/iotiq/.gradle/caches/transforms-3/453c2d3551cde5b6008b1b6920364ea4/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/iotiq/.gradle/caches/transforms-3/66665e6b6e9aba860680c64f6524ab17/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.5.0] /home/iotiq/.gradle/caches/transforms-3/3a0c457208557ff40140850fa2d6cf3d/transformed/jetified-core-ktx-1.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /home/iotiq/.gradle/caches/transforms-3/000a6060e941d12e8aba4e50e32b1f98/transformed/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/iotiq/.gradle/caches/transforms-3/f93ed42a4fc3fbe81e5ce5ada8b38783/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/iotiq/.gradle/caches/transforms-3/baf1a7b33226031d6b96755c8d0cef25/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /home/iotiq/.gradle/caches/transforms-3/eca339f423755d8d909d3377ac43f872/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/iotiq/.gradle/caches/transforms-3/f066a9de96d36d7ff811c57a215e1560/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/iotiq/.gradle/caches/transforms-3/509414a893ec43b8dadbfb9a13043e1a/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/iotiq/.gradle/caches/transforms-3/c59c0ba8c51e9c9476e35b99ff75a5d5/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /home/iotiq/.gradle/caches/transforms-3/0582d237e44af2c46223cea5336f5982/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0] /home/iotiq/.gradle/caches/transforms-3/f191835ea975f580cba1f4649bd6c315/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/iotiq/.gradle/caches/transforms-3/6736508b9e25c7197ee120ad920736f8/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/iotiq/.gradle/caches/transforms-3/429a67188a189d55011b3e446b195698/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/iotiq/.gradle/caches/transforms-3/4d746e05f196933e6d8da19aa94388c1/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/iotiq/.gradle/caches/transforms-3/445f0c7dac957ffec740d90fad042596/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/iotiq/.gradle/caches/transforms-3/05e7dc11dcc13c76b5fc813bc4f0d7bb/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/iotiq/.gradle/caches/transforms-3/fc6a75538f6cf3f7477900b4256afbb1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/iotiq/.gradle/caches/transforms-3/04ff6f6f1d80c45a0b90924ab97a2524/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/iotiq/.gradle/caches/transforms-3/f99dce2eb803f684d6e1cd6b6a649753/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/iotiq/.gradle/caches/transforms-3/b7f3eff5c5c36bedc21a7ed58722a3b3/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/iotiq/.gradle/caches/transforms-3/99509461161a58b5854aed23f2a711f2/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /home/iotiq/.gradle/caches/transforms-3/10c4067a83f6a9a637b50f9a7a134fb6/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/iotiq/.gradle/caches/transforms-3/2206840af359e3f0e8fdd04c473eb9f2/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+	package
+		INJECTED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml:1:1-31:12
+		INJECTED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml:1:1-31:12
+		INJECTED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml:1:1-31:12
+		INJECTED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml:3:5-67
+MERGED from [com.facebook.flipper:flipper:0.125.0] /home/iotiq/.gradle/caches/transforms-3/d21e03783798daec531e6849a2c441a9/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.125.0] /home/iotiq/.gradle/caches/transforms-3/d21e03783798daec531e6849a2c441a9/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:15:5-67
+MERGED from [:react-native-firebase_storage] /home/iotiq/Desktop/my_projects/deneme/node_modules/@react-native-firebase/storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-firebase_storage] /home/iotiq/Desktop/my_projects/deneme/node_modules/@react-native-firebase/storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-voximplant] /home/iotiq/Desktop/my_projects/deneme/node_modules/react-native-voximplant/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-67
+MERGED from [:react-native-voximplant] /home/iotiq/Desktop/my_projects/deneme/node_modules/react-native-voximplant/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-67
+MERGED from [com.google.firebase:firebase-storage:20.2.0] /home/iotiq/.gradle/caches/transforms-3/0f1dfb13e9ccb5997e3333549af51f11/transformed/jetified-firebase-storage-20.2.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-storage:20.2.0] /home/iotiq/.gradle/caches/transforms-3/0f1dfb13e9ccb5997e3333549af51f11/transformed/jetified-firebase-storage-20.2.0/AndroidManifest.xml:26:5-67
+MERGED from [com.voximplant:voximplant-sdk:2.35.2] /home/iotiq/.gradle/caches/transforms-3/fa6e6261a3a41c602b68de26b7502491/transformed/jetified-voximplant-sdk-2.35.2/AndroidManifest.xml:17:5-67
+MERGED from [com.voximplant:voximplant-sdk:2.35.2] /home/iotiq/.gradle/caches/transforms-3/fa6e6261a3a41c602b68de26b7502491/transformed/jetified-voximplant-sdk-2.35.2/AndroidManifest.xml:17:5-67
+	android:name
+		ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml:3:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml:4:5-81
+MERGED from [com.voximplant:voximplant-sdk:2.35.2] /home/iotiq/.gradle/caches/transforms-3/fa6e6261a3a41c602b68de26b7502491/transformed/jetified-voximplant-sdk-2.35.2/AndroidManifest.xml:18:5-81
+MERGED from [com.voximplant:voximplant-sdk:2.35.2] /home/iotiq/.gradle/caches/transforms-3/fa6e6261a3a41c602b68de26b7502491/transformed/jetified-voximplant-sdk-2.35.2/AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml:4:22-78
+uses-permission#android.permission.WRITE_INTERNAL_STORAGE
+ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml:6:5-77
+	android:name
+		ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml:6:22-74
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml:8:5-71
+MERGED from [:react-native-voximplant] /home/iotiq/Desktop/my_projects/deneme/node_modules/react-native-voximplant/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:5-71
+MERGED from [:react-native-voximplant] /home/iotiq/Desktop/my_projects/deneme/node_modules/react-native-voximplant/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:5-71
+MERGED from [com.voximplant:voximplant-sdk:2.35.2] /home/iotiq/.gradle/caches/transforms-3/fa6e6261a3a41c602b68de26b7502491/transformed/jetified-voximplant-sdk-2.35.2/AndroidManifest.xml:16:5-71
+MERGED from [com.voximplant:voximplant-sdk:2.35.2] /home/iotiq/.gradle/caches/transforms-3/fa6e6261a3a41c602b68de26b7502491/transformed/jetified-voximplant-sdk-2.35.2/AndroidManifest.xml:16:5-71
+	android:name
+		ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml:8:22-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml:9:22-77
+application
+ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml:11:5-30:19
+MERGED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml:11:5-30:19
+MERGED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml:11:5-30:19
+MERGED from [:react-native-firebase_app] /home/iotiq/Desktop/my_projects/deneme/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-30:19
+MERGED from [:react-native-firebase_app] /home/iotiq/Desktop/my_projects/deneme/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-30:19
+MERGED from [com.facebook.react:react-android:0.71.7] /home/iotiq/.gradle/caches/transforms-3/b5d805e6fac4a5d488eb5747538eef0c/transformed/jetified-react-android-0.71.7-debug/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.react:react-android:0.71.7] /home/iotiq/.gradle/caches/transforms-3/b5d805e6fac4a5d488eb5747538eef0c/transformed/jetified-react-android-0.71.7-debug/AndroidManifest.xml:9:5-20
+MERGED from [com.github.HBiSoft:HBRecorder:2.0.3] /home/iotiq/.gradle/caches/transforms-3/cd2d6c84914a5b900403a51aa2dfcce6/transformed/jetified-HBRecorder-2.0.3/AndroidManifest.xml:12:5-19:19
+MERGED from [com.github.HBiSoft:HBRecorder:2.0.3] /home/iotiq/.gradle/caches/transforms-3/cd2d6c84914a5b900403a51aa2dfcce6/transformed/jetified-HBRecorder-2.0.3/AndroidManifest.xml:12:5-19:19
+MERGED from [com.google.android.material:material:1.1.0] /home/iotiq/.gradle/caches/transforms-3/ca3b5d8e4992146a6c8fbb503646b02c/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /home/iotiq/.gradle/caches/transforms-3/ca3b5d8e4992146a6c8fbb503646b02c/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.4] /home/iotiq/.gradle/caches/transforms-3/7063df8fe2e18a00584103d3aa8e55d7/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.4] /home/iotiq/.gradle/caches/transforms-3/7063df8fe2e18a00584103d3aa8e55d7/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-auth:20.5.0] /home/iotiq/.gradle/caches/transforms-3/ffcafd3eaa32ff36446b402dadc058fa/transformed/jetified-play-services-auth-20.5.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.5.0] /home/iotiq/.gradle/caches/transforms-3/ffcafd3eaa32ff36446b402dadc058fa/transformed/jetified-play-services-auth-20.5.0/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.firebase:firebase-storage:20.2.0] /home/iotiq/.gradle/caches/transforms-3/0f1dfb13e9ccb5997e3333549af51f11/transformed/jetified-firebase-storage-20.2.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-storage:20.2.0] /home/iotiq/.gradle/caches/transforms-3/0f1dfb13e9ccb5997e3333549af51f11/transformed/jetified-firebase-storage-20.2.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] /home/iotiq/.gradle/caches/transforms-3/66a72b67e33e205398649ca8592894fd/transformed/jetified-play-services-fido-20.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] /home/iotiq/.gradle/caches/transforms-3/66a72b67e33e205398649ca8592894fd/transformed/jetified-play-services-fido-20.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /home/iotiq/.gradle/caches/transforms-3/396f64f76eb6785d122862b116ba3673/transformed/jetified-firebase-appcheck-interop-17.0.0/AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /home/iotiq/.gradle/caches/transforms-3/396f64f76eb6785d122862b116ba3673/transformed/jetified-firebase-appcheck-interop-17.0.0/AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/iotiq/.gradle/caches/transforms-3/2bb77963162acec853c76cb58d0069d7/transformed/jetified-firebase-auth-interop-18.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/iotiq/.gradle/caches/transforms-3/2bb77963162acec853c76cb58d0069d7/transformed/jetified-firebase-auth-interop-18.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/iotiq/.gradle/caches/transforms-3/8e1e2c5cd2fb100030de4e06dbfe3195/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/iotiq/.gradle/caches/transforms-3/8e1e2c5cd2fb100030de4e06dbfe3195/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-common:20.3.2] /home/iotiq/.gradle/caches/transforms-3/e3ce38c13e19ddf3152d54b3430bfde4/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.firebase:firebase-common:20.3.2] /home/iotiq/.gradle/caches/transforms-3/e3ce38c13e19ddf3152d54b3430bfde4/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/iotiq/.gradle/caches/transforms-3/0fafd1d97aa3692afd96bd1d63dd93b6/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/iotiq/.gradle/caches/transforms-3/0fafd1d97aa3692afd96bd1d63dd93b6/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] /home/iotiq/.gradle/caches/transforms-3/d97108cb315c4029dd632431e49269f2/transformed/jetified-play-services-basement-18.2.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] /home/iotiq/.gradle/caches/transforms-3/d97108cb315c4029dd632431e49269f2/transformed/jetified-play-services-basement-18.2.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/iotiq/.gradle/caches/transforms-3/19671fc1997f1bc78c4a410bcddde98c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/iotiq/.gradle/caches/transforms-3/19671fc1997f1bc78c4a410bcddde98c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/iotiq/.gradle/caches/transforms-3/e0cc21210d80d107406dd897252daa31/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/iotiq/.gradle/caches/transforms-3/e0cc21210d80d107406dd897252daa31/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/iotiq/.gradle/caches/transforms-3/00176e9a8654d0e1775ac1aa6ba6bc9a/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/iotiq/.gradle/caches/transforms-3/00176e9a8654d0e1775ac1aa6ba6bc9a/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [com.voximplant:voximplant-sdk:2.35.2] /home/iotiq/.gradle/caches/transforms-3/fa6e6261a3a41c602b68de26b7502491/transformed/jetified-voximplant-sdk-2.35.2/AndroidManifest.xml:21:5-20
+MERGED from [com.voximplant:voximplant-sdk:2.35.2] /home/iotiq/.gradle/caches/transforms-3/fa6e6261a3a41c602b68de26b7502491/transformed/jetified-voximplant-sdk-2.35.2/AndroidManifest.xml:21:5-20
+MERGED from [androidx.core:core:1.7.0] /home/iotiq/.gradle/caches/transforms-3/f191835ea975f580cba1f4649bd6c315/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /home/iotiq/.gradle/caches/transforms-3/f191835ea975f580cba1f4649bd6c315/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/iotiq/.gradle/caches/transforms-3/fc6a75538f6cf3f7477900b4256afbb1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/iotiq/.gradle/caches/transforms-3/fc6a75538f6cf3f7477900b4256afbb1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /home/iotiq/.gradle/caches/transforms-3/f191835ea975f580cba1f4649bd6c315/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml:13:7-39
+		ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml:13:7-39
+	tools:ignore
+		ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/debug/AndroidManifest.xml:10:9-48
+	android:roundIcon
+		ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml:15:7-52
+		ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml:15:7-52
+	tools:targetApi
+		ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/debug/AndroidManifest.xml:9:9-29
+	android:icon
+		ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml:14:7-41
+		ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml:14:7-41
+	android:allowBackup
+		ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml:16:7-34
+		ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml:16:7-34
+	android:theme
+		ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml:17:7-38
+		ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml:17:7-38
+	android:usesCleartextTraffic
+		ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/debug/AndroidManifest.xml:8:9-44
+	android:name
+		ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml:12:7-38
+activity#com.deneme.MainActivity
+ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml:18:7-29:18
+	android:label
+		ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml:20:9-41
+	android:launchMode
+		ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml:22:9-40
+	android:windowSoftInputMode
+		ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml:23:9-51
+	android:exported
+		ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml:24:9-32
+	android:configChanges
+		ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml:21:9-118
+	android:name
+		ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml:19:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml:25:9-28:25
+action#android.intent.action.MAIN
+ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml:26:13-65
+	android:name
+		ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml:26:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml:27:13-73
+	android:name
+		ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml:27:23-70
+uses-sdk
+INJECTED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /home/iotiq/.gradle/caches/transforms-3/b6d33f9a62cfa7d450f3f0ad5a2c0dd8/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /home/iotiq/.gradle/caches/transforms-3/b6d33f9a62cfa7d450f3f0ad5a2c0dd8/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /home/iotiq/.gradle/caches/transforms-3/0d109f1f17a6a23d7bc3a04957576b14/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /home/iotiq/.gradle/caches/transforms-3/0d109f1f17a6a23d7bc3a04957576b14/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.125.0] /home/iotiq/.gradle/caches/transforms-3/d21e03783798daec531e6849a2c441a9/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.125.0] /home/iotiq/.gradle/caches/transforms-3/d21e03783798daec531e6849a2c441a9/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-firebase_storage] /home/iotiq/Desktop/my_projects/deneme/node_modules/@react-native-firebase/storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_storage] /home/iotiq/Desktop/my_projects/deneme/node_modules/@react-native-firebase/storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-firebase_app] /home/iotiq/Desktop/my_projects/deneme/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-firebase_app] /home/iotiq/Desktop/my_projects/deneme/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:6:5-8:41
+MERGED from [:react-native-record-screen] /home/iotiq/Desktop/my_projects/deneme/node_modules/react-native-record-screen/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-record-screen] /home/iotiq/Desktop/my_projects/deneme/node_modules/react-native-record-screen/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /home/iotiq/Desktop/my_projects/deneme/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /home/iotiq/Desktop/my_projects/deneme/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /home/iotiq/Desktop/my_projects/deneme/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /home/iotiq/Desktop/my_projects/deneme/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /home/iotiq/Desktop/my_projects/deneme/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /home/iotiq/Desktop/my_projects/deneme/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-voximplant] /home/iotiq/Desktop/my_projects/deneme/node_modules/react-native-voximplant/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-voximplant] /home/iotiq/Desktop/my_projects/deneme/node_modules/react-native-voximplant/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-android:0.71.7] /home/iotiq/.gradle/caches/transforms-3/b5d805e6fac4a5d488eb5747538eef0c/transformed/jetified-react-android-0.71.7-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-android:0.71.7] /home/iotiq/.gradle/caches/transforms-3/b5d805e6fac4a5d488eb5747538eef0c/transformed/jetified-react-android-0.71.7-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/iotiq/.gradle/caches/transforms-3/b231f63c399a8cf01b539c91526f8e9e/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/iotiq/.gradle/caches/transforms-3/b231f63c399a8cf01b539c91526f8e9e/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.HBiSoft:HBRecorder:2.0.3] /home/iotiq/.gradle/caches/transforms-3/cd2d6c84914a5b900403a51aa2dfcce6/transformed/jetified-HBRecorder-2.0.3/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.HBiSoft:HBRecorder:2.0.3] /home/iotiq/.gradle/caches/transforms-3/cd2d6c84914a5b900403a51aa2dfcce6/transformed/jetified-HBRecorder-2.0.3/AndroidManifest.xml:8:5-10:41
+MERGED from [com.google.android.material:material:1.1.0] /home/iotiq/.gradle/caches/transforms-3/ca3b5d8e4992146a6c8fbb503646b02c/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /home/iotiq/.gradle/caches/transforms-3/ca3b5d8e4992146a6c8fbb503646b02c/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.4.1] /home/iotiq/.gradle/caches/transforms-3/e34bdca19268bd7370574808ff162af8/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /home/iotiq/.gradle/caches/transforms-3/e34bdca19268bd7370574808ff162af8/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.react:hermes-android:0.71.7] /home/iotiq/.gradle/caches/transforms-3/310920b246b9b7cda226571f657a1dc8/transformed/jetified-hermes-android-0.71.7-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:hermes-android:0.71.7] /home/iotiq/.gradle/caches/transforms-3/310920b246b9b7cda226571f657a1dc8/transformed/jetified-hermes-android-0.71.7-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fbjni:fbjni:0.3.0] /home/iotiq/.gradle/caches/transforms-3/b504127fb7404d5f15f62c8c94396299/transformed/jetified-fbjni-0.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fbjni:fbjni:0.3.0] /home/iotiq/.gradle/caches/transforms-3/b504127fb7404d5f15f62c8c94396299/transformed/jetified-fbjni-0.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] /home/iotiq/.gradle/caches/transforms-3/b4ec6f36fc34f81a5ee951600890bdf8/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] /home/iotiq/.gradle/caches/transforms-3/b4ec6f36fc34f81a5ee951600890bdf8/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] /home/iotiq/.gradle/caches/transforms-3/8f292b5afec249da2f3dc81792eb24ae/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] /home/iotiq/.gradle/caches/transforms-3/8f292b5afec249da2f3dc81792eb24ae/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] /home/iotiq/.gradle/caches/transforms-3/0ca138a8f13b02bdc6554fbcbc95c4fa/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] /home/iotiq/.gradle/caches/transforms-3/0ca138a8f13b02bdc6554fbcbc95c4fa/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] /home/iotiq/.gradle/caches/transforms-3/b8bf15e8fdefb7ccef3f6110bef7d46f/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] /home/iotiq/.gradle/caches/transforms-3/b8bf15e8fdefb7ccef3f6110bef7d46f/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /home/iotiq/.gradle/caches/transforms-3/53f8fbb9a36685fbecfbb8e503b6dfbb/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /home/iotiq/.gradle/caches/transforms-3/53f8fbb9a36685fbecfbb8e503b6dfbb/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] /home/iotiq/.gradle/caches/transforms-3/94e574002562d8f6b9263d3fba00022c/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] /home/iotiq/.gradle/caches/transforms-3/94e574002562d8f6b9263d3fba00022c/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /home/iotiq/.gradle/caches/transforms-3/1d3285725148cc0e67fd3c20b1c7ea94/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /home/iotiq/.gradle/caches/transforms-3/1d3285725148cc0e67fd3c20b1c7ea94/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /home/iotiq/.gradle/caches/transforms-3/bfd446d3c2d25bacf4fe2acc2f5d6a82/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /home/iotiq/.gradle/caches/transforms-3/bfd446d3c2d25bacf4fe2acc2f5d6a82/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /home/iotiq/.gradle/caches/transforms-3/fa250aeee92732ec39160dff50abe2ff/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /home/iotiq/.gradle/caches/transforms-3/fa250aeee92732ec39160dff50abe2ff/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /home/iotiq/.gradle/caches/transforms-3/aa8610a6cb82340fa5c56914d104a750/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /home/iotiq/.gradle/caches/transforms-3/aa8610a6cb82340fa5c56914d104a750/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.4] /home/iotiq/.gradle/caches/transforms-3/7063df8fe2e18a00584103d3aa8e55d7/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.4] /home/iotiq/.gradle/caches/transforms-3/7063df8fe2e18a00584103d3aa8e55d7/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /home/iotiq/.gradle/caches/transforms-3/a35a849ae9ab60baf4981ab8ad555632/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /home/iotiq/.gradle/caches/transforms-3/a35a849ae9ab60baf4981ab8ad555632/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /home/iotiq/.gradle/caches/transforms-3/154ed65c50f985342bc679fa479deb25/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /home/iotiq/.gradle/caches/transforms-3/154ed65c50f985342bc679fa479deb25/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /home/iotiq/.gradle/caches/transforms-3/1efb3cb5861d632bf0e10cd145d84cdf/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /home/iotiq/.gradle/caches/transforms-3/1efb3cb5861d632bf0e10cd145d84cdf/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /home/iotiq/.gradle/caches/transforms-3/0f0192c98f5adacb6940d0e2a297bc6c/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /home/iotiq/.gradle/caches/transforms-3/0f0192c98f5adacb6940d0e2a297bc6c/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /home/iotiq/.gradle/caches/transforms-3/2e20abbaa34365fd57eb845f7a8b66d4/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /home/iotiq/.gradle/caches/transforms-3/2e20abbaa34365fd57eb845f7a8b66d4/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /home/iotiq/.gradle/caches/transforms-3/90255f3429515dfb0327bb2a79864372/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /home/iotiq/.gradle/caches/transforms-3/90255f3429515dfb0327bb2a79864372/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /home/iotiq/.gradle/caches/transforms-3/0e72f93d7ff2c15a88079185063e9dca/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /home/iotiq/.gradle/caches/transforms-3/0e72f93d7ff2c15a88079185063e9dca/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-auth:20.5.0] /home/iotiq/.gradle/caches/transforms-3/ffcafd3eaa32ff36446b402dadc058fa/transformed/jetified-play-services-auth-20.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.5.0] /home/iotiq/.gradle/caches/transforms-3/ffcafd3eaa32ff36446b402dadc058fa/transformed/jetified-play-services-auth-20.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage:20.2.0] /home/iotiq/.gradle/caches/transforms-3/0f1dfb13e9ccb5997e3333549af51f11/transformed/jetified-firebase-storage-20.2.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:20.2.0] /home/iotiq/.gradle/caches/transforms-3/0f1dfb13e9ccb5997e3333549af51f11/transformed/jetified-firebase-storage-20.2.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /home/iotiq/.gradle/caches/transforms-3/1315e6b3d1ca015d7ed3ad94e546e3ba/transformed/jetified-play-services-auth-api-phone-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] /home/iotiq/.gradle/caches/transforms-3/1315e6b3d1ca015d7ed3ad94e546e3ba/transformed/jetified-play-services-auth-api-phone-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /home/iotiq/.gradle/caches/transforms-3/549c524b90990522ecf16ecd15fa5e80/transformed/jetified-play-services-auth-base-18.0.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] /home/iotiq/.gradle/caches/transforms-3/549c524b90990522ecf16ecd15fa5e80/transformed/jetified-play-services-auth-base-18.0.4/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] /home/iotiq/.gradle/caches/transforms-3/66a72b67e33e205398649ca8592894fd/transformed/jetified-play-services-fido-20.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] /home/iotiq/.gradle/caches/transforms-3/66a72b67e33e205398649ca8592894fd/transformed/jetified-play-services-fido-20.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /home/iotiq/.gradle/caches/transforms-3/396f64f76eb6785d122862b116ba3673/transformed/jetified-firebase-appcheck-interop-17.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] /home/iotiq/.gradle/caches/transforms-3/396f64f76eb6785d122862b116ba3673/transformed/jetified-firebase-appcheck-interop-17.0.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/iotiq/.gradle/caches/transforms-3/2bb77963162acec853c76cb58d0069d7/transformed/jetified-firebase-auth-interop-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/iotiq/.gradle/caches/transforms-3/2bb77963162acec853c76cb58d0069d7/transformed/jetified-firebase-auth-interop-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/iotiq/.gradle/caches/transforms-3/8e1e2c5cd2fb100030de4e06dbfe3195/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/iotiq/.gradle/caches/transforms-3/8e1e2c5cd2fb100030de4e06dbfe3195/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-common:20.3.2] /home/iotiq/.gradle/caches/transforms-3/e3ce38c13e19ddf3152d54b3430bfde4/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-common:20.3.2] /home/iotiq/.gradle/caches/transforms-3/e3ce38c13e19ddf3152d54b3430bfde4/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/iotiq/.gradle/caches/transforms-3/0fafd1d97aa3692afd96bd1d63dd93b6/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/iotiq/.gradle/caches/transforms-3/0fafd1d97aa3692afd96bd1d63dd93b6/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] /home/iotiq/.gradle/caches/transforms-3/d97108cb315c4029dd632431e49269f2/transformed/jetified-play-services-basement-18.2.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] /home/iotiq/.gradle/caches/transforms-3/d97108cb315c4029dd632431e49269f2/transformed/jetified-play-services-basement-18.2.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/iotiq/.gradle/caches/transforms-3/42b34990c6d08bbbced8777bc82cc223/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/iotiq/.gradle/caches/transforms-3/42b34990c6d08bbbced8777bc82cc223/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/iotiq/.gradle/caches/transforms-3/e0b75d63b72bdd815d5501717dffa203/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /home/iotiq/.gradle/caches/transforms-3/e0b75d63b72bdd815d5501717dffa203/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /home/iotiq/.gradle/caches/transforms-3/f75c626fc4ace54849ca3855247534db/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /home/iotiq/.gradle/caches/transforms-3/f75c626fc4ace54849ca3855247534db/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/iotiq/.gradle/caches/transforms-3/7c242845e13bc58ef6205b1042a8ef29/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/iotiq/.gradle/caches/transforms-3/7c242845e13bc58ef6205b1042a8ef29/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/iotiq/.gradle/caches/transforms-3/19671fc1997f1bc78c4a410bcddde98c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/iotiq/.gradle/caches/transforms-3/19671fc1997f1bc78c4a410bcddde98c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/iotiq/.gradle/caches/transforms-3/e0cc21210d80d107406dd897252daa31/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/iotiq/.gradle/caches/transforms-3/e0cc21210d80d107406dd897252daa31/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/iotiq/.gradle/caches/transforms-3/00176e9a8654d0e1775ac1aa6ba6bc9a/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/iotiq/.gradle/caches/transforms-3/00176e9a8654d0e1775ac1aa6ba6bc9a/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.1.0] /home/iotiq/.gradle/caches/transforms-3/665c2f16c6436908d9886a8875e29763/transformed/jetified-tracing-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.1.0] /home/iotiq/.gradle/caches/transforms-3/665c2f16c6436908d9886a8875e29763/transformed/jetified-tracing-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] /home/iotiq/.gradle/caches/transforms-3/1eee9221d628f73f82c2e04b18276bca/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] /home/iotiq/.gradle/caches/transforms-3/1eee9221d628f73f82c2e04b18276bca/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /home/iotiq/.gradle/caches/transforms-3/9047bed1c6e3c27edfc915e9597a0373/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /home/iotiq/.gradle/caches/transforms-3/9047bed1c6e3c27edfc915e9597a0373/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.voximplant:voximplant-sdk:2.35.2] /home/iotiq/.gradle/caches/transforms-3/fa6e6261a3a41c602b68de26b7502491/transformed/jetified-voximplant-sdk-2.35.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.voximplant:voximplant-sdk:2.35.2] /home/iotiq/.gradle/caches/transforms-3/fa6e6261a3a41c602b68de26b7502491/transformed/jetified-voximplant-sdk-2.35.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-components:17.1.0] /home/iotiq/.gradle/caches/transforms-3/ac17b0c0299a8e8624adf8e19151992a/transformed/jetified-firebase-components-17.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:17.1.0] /home/iotiq/.gradle/caches/transforms-3/ac17b0c0299a8e8624adf8e19151992a/transformed/jetified-firebase-components-17.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/iotiq/.gradle/caches/transforms-3/55e227e1e5b81136db6944bb7f214e5b/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/iotiq/.gradle/caches/transforms-3/55e227e1e5b81136db6944bb7f214e5b/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/iotiq/.gradle/caches/transforms-3/453c2d3551cde5b6008b1b6920364ea4/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/iotiq/.gradle/caches/transforms-3/453c2d3551cde5b6008b1b6920364ea4/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/iotiq/.gradle/caches/transforms-3/66665e6b6e9aba860680c64f6524ab17/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/iotiq/.gradle/caches/transforms-3/66665e6b6e9aba860680c64f6524ab17/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.5.0] /home/iotiq/.gradle/caches/transforms-3/3a0c457208557ff40140850fa2d6cf3d/transformed/jetified-core-ktx-1.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.5.0] /home/iotiq/.gradle/caches/transforms-3/3a0c457208557ff40140850fa2d6cf3d/transformed/jetified-core-ktx-1.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /home/iotiq/.gradle/caches/transforms-3/000a6060e941d12e8aba4e50e32b1f98/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /home/iotiq/.gradle/caches/transforms-3/000a6060e941d12e8aba4e50e32b1f98/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/iotiq/.gradle/caches/transforms-3/f93ed42a4fc3fbe81e5ce5ada8b38783/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/iotiq/.gradle/caches/transforms-3/f93ed42a4fc3fbe81e5ce5ada8b38783/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/iotiq/.gradle/caches/transforms-3/baf1a7b33226031d6b96755c8d0cef25/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/iotiq/.gradle/caches/transforms-3/baf1a7b33226031d6b96755c8d0cef25/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /home/iotiq/.gradle/caches/transforms-3/eca339f423755d8d909d3377ac43f872/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/iotiq/.gradle/caches/transforms-3/eca339f423755d8d909d3377ac43f872/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/iotiq/.gradle/caches/transforms-3/f066a9de96d36d7ff811c57a215e1560/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/iotiq/.gradle/caches/transforms-3/f066a9de96d36d7ff811c57a215e1560/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/iotiq/.gradle/caches/transforms-3/509414a893ec43b8dadbfb9a13043e1a/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/iotiq/.gradle/caches/transforms-3/509414a893ec43b8dadbfb9a13043e1a/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/iotiq/.gradle/caches/transforms-3/c59c0ba8c51e9c9476e35b99ff75a5d5/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/iotiq/.gradle/caches/transforms-3/c59c0ba8c51e9c9476e35b99ff75a5d5/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /home/iotiq/.gradle/caches/transforms-3/0582d237e44af2c46223cea5336f5982/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/iotiq/.gradle/caches/transforms-3/0582d237e44af2c46223cea5336f5982/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /home/iotiq/.gradle/caches/transforms-3/f191835ea975f580cba1f4649bd6c315/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /home/iotiq/.gradle/caches/transforms-3/f191835ea975f580cba1f4649bd6c315/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/iotiq/.gradle/caches/transforms-3/6736508b9e25c7197ee120ad920736f8/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/iotiq/.gradle/caches/transforms-3/6736508b9e25c7197ee120ad920736f8/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/iotiq/.gradle/caches/transforms-3/429a67188a189d55011b3e446b195698/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/iotiq/.gradle/caches/transforms-3/429a67188a189d55011b3e446b195698/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/iotiq/.gradle/caches/transforms-3/4d746e05f196933e6d8da19aa94388c1/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/iotiq/.gradle/caches/transforms-3/4d746e05f196933e6d8da19aa94388c1/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/iotiq/.gradle/caches/transforms-3/445f0c7dac957ffec740d90fad042596/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/iotiq/.gradle/caches/transforms-3/445f0c7dac957ffec740d90fad042596/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/iotiq/.gradle/caches/transforms-3/05e7dc11dcc13c76b5fc813bc4f0d7bb/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/iotiq/.gradle/caches/transforms-3/05e7dc11dcc13c76b5fc813bc4f0d7bb/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/iotiq/.gradle/caches/transforms-3/fc6a75538f6cf3f7477900b4256afbb1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/iotiq/.gradle/caches/transforms-3/fc6a75538f6cf3f7477900b4256afbb1/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/iotiq/.gradle/caches/transforms-3/04ff6f6f1d80c45a0b90924ab97a2524/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/iotiq/.gradle/caches/transforms-3/04ff6f6f1d80c45a0b90924ab97a2524/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/iotiq/.gradle/caches/transforms-3/f99dce2eb803f684d6e1cd6b6a649753/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/iotiq/.gradle/caches/transforms-3/f99dce2eb803f684d6e1cd6b6a649753/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/iotiq/.gradle/caches/transforms-3/b7f3eff5c5c36bedc21a7ed58722a3b3/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/iotiq/.gradle/caches/transforms-3/b7f3eff5c5c36bedc21a7ed58722a3b3/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/iotiq/.gradle/caches/transforms-3/99509461161a58b5854aed23f2a711f2/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/iotiq/.gradle/caches/transforms-3/99509461161a58b5854aed23f2a711f2/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /home/iotiq/.gradle/caches/transforms-3/10c4067a83f6a9a637b50f9a7a134fb6/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /home/iotiq/.gradle/caches/transforms-3/10c4067a83f6a9a637b50f9a7a134fb6/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/iotiq/.gradle/caches/transforms-3/2206840af359e3f0e8fdd04c473eb9f2/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/iotiq/.gradle/caches/transforms-3/2206840af359e3f0e8fdd04c473eb9f2/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/debug/AndroidManifest.xml:5:22-75
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/debug/AndroidManifest.xml:11:9-111
+	android:exported
+		ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/debug/AndroidManifest.xml:11:84-108
+	android:name
+		ADDED from /home/iotiq/Desktop/my_projects/deneme/android/app/src/debug/AndroidManifest.xml:11:19-83
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.125.0] /home/iotiq/.gradle/caches/transforms-3/d21e03783798daec531e6849a2c441a9/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.125.0] /home/iotiq/.gradle/caches/transforms-3/d21e03783798daec531e6849a2c441a9/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-firebase_storage] /home/iotiq/Desktop/my_projects/deneme/node_modules/@react-native-firebase/storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-68
+	android:name
+		ADDED from [:react-native-firebase_storage] /home/iotiq/Desktop/my_projects/deneme/node_modules/@react-native-firebase/storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-firebase_storage] /home/iotiq/Desktop/my_projects/deneme/node_modules/@react-native-firebase/storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-79
+MERGED from [:react-native-voximplant] /home/iotiq/Desktop/my_projects/deneme/node_modules/react-native-voximplant/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-79
+MERGED from [:react-native-voximplant] /home/iotiq/Desktop/my_projects/deneme/node_modules/react-native-voximplant/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-79
+MERGED from [com.google.firebase:firebase-storage:20.2.0] /home/iotiq/.gradle/caches/transforms-3/0f1dfb13e9ccb5997e3333549af51f11/transformed/jetified-firebase-storage-20.2.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-storage:20.2.0] /home/iotiq/.gradle/caches/transforms-3/0f1dfb13e9ccb5997e3333549af51f11/transformed/jetified-firebase-storage-20.2.0/AndroidManifest.xml:25:5-79
+MERGED from [com.voximplant:voximplant-sdk:2.35.2] /home/iotiq/.gradle/caches/transforms-3/fa6e6261a3a41c602b68de26b7502491/transformed/jetified-voximplant-sdk-2.35.2/AndroidManifest.xml:19:5-79
+MERGED from [com.voximplant:voximplant-sdk:2.35.2] /home/iotiq/.gradle/caches/transforms-3/fa6e6261a3a41c602b68de26b7502491/transformed/jetified-voximplant-sdk-2.35.2/AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from [:react-native-firebase_storage] /home/iotiq/Desktop/my_projects/deneme/node_modules/@react-native-firebase/storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:22-76
+meta-data#app_data_collection_default_enabled
+ADDED from [:react-native-firebase_app] /home/iotiq/Desktop/my_projects/deneme/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:9-13:36
+	android:value
+		ADDED from [:react-native-firebase_app] /home/iotiq/Desktop/my_projects/deneme/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-33
+	android:name
+		ADDED from [:react-native-firebase_app] /home/iotiq/Desktop/my_projects/deneme/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-63
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:react-native-firebase_app] /home/iotiq/Desktop/my_projects/deneme/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:9-23:19
+MERGED from [com.google.firebase:firebase-storage:20.2.0] /home/iotiq/.gradle/caches/transforms-3/0f1dfb13e9ccb5997e3333549af51f11/transformed/jetified-firebase-storage-20.2.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-storage:20.2.0] /home/iotiq/.gradle/caches/transforms-3/0f1dfb13e9ccb5997e3333549af51f11/transformed/jetified-firebase-storage-20.2.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-common:20.3.2] /home/iotiq/.gradle/caches/transforms-3/e3ce38c13e19ddf3152d54b3430bfde4/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:20.3.2] /home/iotiq/.gradle/caches/transforms-3/e3ce38c13e19ddf3152d54b3430bfde4/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [:react-native-firebase_app] /home/iotiq/Desktop/my_projects/deneme/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-37
+	tools:targetApi
+		ADDED from [:react-native-firebase_app] /home/iotiq/Desktop/my_projects/deneme/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-32
+	android:directBootAware
+		ADDED from [:react-native-firebase_app] /home/iotiq/Desktop/my_projects/deneme/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:13-43
+	android:name
+		ADDED from [:react-native-firebase_app] /home/iotiq/Desktop/my_projects/deneme/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-84
+meta-data#com.google.firebase.components:io.invertase.firebase.app.ReactNativeFirebaseAppRegistrar
+ADDED from [:react-native-firebase_app] /home/iotiq/Desktop/my_projects/deneme/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [:react-native-firebase_app] /home/iotiq/Desktop/my_projects/deneme/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [:react-native-firebase_app] /home/iotiq/Desktop/my_projects/deneme/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:17-120
+provider#io.invertase.firebase.app.ReactNativeFirebaseAppInitProvider
+ADDED from [:react-native-firebase_app] /home/iotiq/Desktop/my_projects/deneme/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:9-29:38
+	android:authorities
+		ADDED from [:react-native-firebase_app] /home/iotiq/Desktop/my_projects/deneme/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:27:13-86
+	android:exported
+		ADDED from [:react-native-firebase_app] /home/iotiq/Desktop/my_projects/deneme/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:28:13-37
+	android:initOrder
+		ADDED from [:react-native-firebase_app] /home/iotiq/Desktop/my_projects/deneme/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:29:13-35
+	android:name
+		ADDED from [:react-native-firebase_app] /home/iotiq/Desktop/my_projects/deneme/node_modules/@react-native-firebase/app/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:26:13-88
+uses-permission#android.permission.CAMERA
+ADDED from [:react-native-voximplant] /home/iotiq/Desktop/my_projects/deneme/node_modules/react-native-voximplant/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-65
+MERGED from [com.voximplant:voximplant-sdk:2.35.2] /home/iotiq/.gradle/caches/transforms-3/fa6e6261a3a41c602b68de26b7502491/transformed/jetified-voximplant-sdk-2.35.2/AndroidManifest.xml:13:5-65
+MERGED from [com.voximplant:voximplant-sdk:2.35.2] /home/iotiq/.gradle/caches/transforms-3/fa6e6261a3a41c602b68de26b7502491/transformed/jetified-voximplant-sdk-2.35.2/AndroidManifest.xml:13:5-65
+	android:name
+		ADDED from [:react-native-voximplant] /home/iotiq/Desktop/my_projects/deneme/node_modules/react-native-voximplant/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-62
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from [:react-native-voximplant] /home/iotiq/Desktop/my_projects/deneme/node_modules/react-native-voximplant/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-80
+MERGED from [com.voximplant:voximplant-sdk:2.35.2] /home/iotiq/.gradle/caches/transforms-3/fa6e6261a3a41c602b68de26b7502491/transformed/jetified-voximplant-sdk-2.35.2/AndroidManifest.xml:15:5-80
+MERGED from [com.voximplant:voximplant-sdk:2.35.2] /home/iotiq/.gradle/caches/transforms-3/fa6e6261a3a41c602b68de26b7502491/transformed/jetified-voximplant-sdk-2.35.2/AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from [:react-native-voximplant] /home/iotiq/Desktop/my_projects/deneme/node_modules/react-native-voximplant/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-77
+uses-permission#android.permission.BLUETOOTH
+ADDED from [:react-native-voximplant] /home/iotiq/Desktop/my_projects/deneme/node_modules/react-native-voximplant/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:5-68
+MERGED from [com.voximplant:voximplant-sdk:2.35.2] /home/iotiq/.gradle/caches/transforms-3/fa6e6261a3a41c602b68de26b7502491/transformed/jetified-voximplant-sdk-2.35.2/AndroidManifest.xml:9:5-11:38
+MERGED from [com.voximplant:voximplant-sdk:2.35.2] /home/iotiq/.gradle/caches/transforms-3/fa6e6261a3a41c602b68de26b7502491/transformed/jetified-voximplant-sdk-2.35.2/AndroidManifest.xml:9:5-11:38
+	android:maxSdkVersion
+		ADDED from [com.voximplant:voximplant-sdk:2.35.2] /home/iotiq/.gradle/caches/transforms-3/fa6e6261a3a41c602b68de26b7502491/transformed/jetified-voximplant-sdk-2.35.2/AndroidManifest.xml:11:9-35
+	android:name
+		ADDED from [:react-native-voximplant] /home/iotiq/Desktop/my_projects/deneme/node_modules/react-native-voximplant/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:22-65
+service#com.hbisoft.hbrecorder.ScreenRecordService
+ADDED from [com.github.HBiSoft:HBRecorder:2.0.3] /home/iotiq/.gradle/caches/transforms-3/cd2d6c84914a5b900403a51aa2dfcce6/transformed/jetified-HBRecorder-2.0.3/AndroidManifest.xml:13:9-16:35
+	tools:targetApi
+		ADDED from [com.github.HBiSoft:HBRecorder:2.0.3] /home/iotiq/.gradle/caches/transforms-3/cd2d6c84914a5b900403a51aa2dfcce6/transformed/jetified-HBRecorder-2.0.3/AndroidManifest.xml:16:13-32
+	android:foregroundServiceType
+		ADDED from [com.github.HBiSoft:HBRecorder:2.0.3] /home/iotiq/.gradle/caches/transforms-3/cd2d6c84914a5b900403a51aa2dfcce6/transformed/jetified-HBRecorder-2.0.3/AndroidManifest.xml:15:13-60
+	android:name
+		ADDED from [com.github.HBiSoft:HBRecorder:2.0.3] /home/iotiq/.gradle/caches/transforms-3/cd2d6c84914a5b900403a51aa2dfcce6/transformed/jetified-HBRecorder-2.0.3/AndroidManifest.xml:14:13-70
+receiver#com.hbisoft.hbrecorder.NotificationReceiver
+ADDED from [com.github.HBiSoft:HBRecorder:2.0.3] /home/iotiq/.gradle/caches/transforms-3/cd2d6c84914a5b900403a51aa2dfcce6/transformed/jetified-HBRecorder-2.0.3/AndroidManifest.xml:18:9-80
+	android:name
+		ADDED from [com.github.HBiSoft:HBRecorder:2.0.3] /home/iotiq/.gradle/caches/transforms-3/cd2d6c84914a5b900403a51aa2dfcce6/transformed/jetified-HBRecorder-2.0.3/AndroidManifest.xml:18:19-77
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.5.0] /home/iotiq/.gradle/caches/transforms-3/ffcafd3eaa32ff36446b402dadc058fa/transformed/jetified-play-services-auth-20.5.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.5.0] /home/iotiq/.gradle/caches/transforms-3/ffcafd3eaa32ff36446b402dadc058fa/transformed/jetified-play-services-auth-20.5.0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.5.0] /home/iotiq/.gradle/caches/transforms-3/ffcafd3eaa32ff36446b402dadc058fa/transformed/jetified-play-services-auth-20.5.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.5.0] /home/iotiq/.gradle/caches/transforms-3/ffcafd3eaa32ff36446b402dadc058fa/transformed/jetified-play-services-auth-20.5.0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.5.0] /home/iotiq/.gradle/caches/transforms-3/ffcafd3eaa32ff36446b402dadc058fa/transformed/jetified-play-services-auth-20.5.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.5.0] /home/iotiq/.gradle/caches/transforms-3/ffcafd3eaa32ff36446b402dadc058fa/transformed/jetified-play-services-auth-20.5.0/AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.5.0] /home/iotiq/.gradle/caches/transforms-3/ffcafd3eaa32ff36446b402dadc058fa/transformed/jetified-play-services-auth-20.5.0/AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.5.0] /home/iotiq/.gradle/caches/transforms-3/ffcafd3eaa32ff36446b402dadc058fa/transformed/jetified-play-services-auth-20.5.0/AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.5.0] /home/iotiq/.gradle/caches/transforms-3/ffcafd3eaa32ff36446b402dadc058fa/transformed/jetified-play-services-auth-20.5.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.5.0] /home/iotiq/.gradle/caches/transforms-3/ffcafd3eaa32ff36446b402dadc058fa/transformed/jetified-play-services-auth-20.5.0/AndroidManifest.xml:34:13-89
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:20.2.0] /home/iotiq/.gradle/caches/transforms-3/0f1dfb13e9ccb5997e3333549af51f11/transformed/jetified-firebase-storage-20.2.0/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:20.2.0] /home/iotiq/.gradle/caches/transforms-3/0f1dfb13e9ccb5997e3333549af51f11/transformed/jetified-firebase-storage-20.2.0/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:20.2.0] /home/iotiq/.gradle/caches/transforms-3/0f1dfb13e9ccb5997e3333549af51f11/transformed/jetified-firebase-storage-20.2.0/AndroidManifest.xml:33:17-107
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] /home/iotiq/.gradle/caches/transforms-3/8e1e2c5cd2fb100030de4e06dbfe3195/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /home/iotiq/.gradle/caches/transforms-3/8e1e2c5cd2fb100030de4e06dbfe3195/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /home/iotiq/.gradle/caches/transforms-3/8e1e2c5cd2fb100030de4e06dbfe3195/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /home/iotiq/.gradle/caches/transforms-3/8e1e2c5cd2fb100030de4e06dbfe3195/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.3.2] /home/iotiq/.gradle/caches/transforms-3/e3ce38c13e19ddf3152d54b3430bfde4/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:25:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.3.2] /home/iotiq/.gradle/caches/transforms-3/e3ce38c13e19ddf3152d54b3430bfde4/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:27:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.3.2] /home/iotiq/.gradle/caches/transforms-3/e3ce38c13e19ddf3152d54b3430bfde4/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:29:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.3.2] /home/iotiq/.gradle/caches/transforms-3/e3ce38c13e19ddf3152d54b3430bfde4/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:28:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.3.2] /home/iotiq/.gradle/caches/transforms-3/e3ce38c13e19ddf3152d54b3430bfde4/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.3.2] /home/iotiq/.gradle/caches/transforms-3/e3ce38c13e19ddf3152d54b3430bfde4/transformed/jetified-firebase-common-20.3.2/AndroidManifest.xml:26:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.2.0] /home/iotiq/.gradle/caches/transforms-3/d97108cb315c4029dd632431e49269f2/transformed/jetified-play-services-basement-18.2.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.2.0] /home/iotiq/.gradle/caches/transforms-3/d97108cb315c4029dd632431e49269f2/transformed/jetified-play-services-basement-18.2.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.2.0] /home/iotiq/.gradle/caches/transforms-3/d97108cb315c4029dd632431e49269f2/transformed/jetified-play-services-basement-18.2.0/AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /home/iotiq/.gradle/caches/transforms-3/19671fc1997f1bc78c4a410bcddde98c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/iotiq/.gradle/caches/transforms-3/e0cc21210d80d107406dd897252daa31/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/iotiq/.gradle/caches/transforms-3/e0cc21210d80d107406dd897252daa31/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/iotiq/.gradle/caches/transforms-3/00176e9a8654d0e1775ac1aa6ba6bc9a/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/iotiq/.gradle/caches/transforms-3/00176e9a8654d0e1775ac1aa6ba6bc9a/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/iotiq/.gradle/caches/transforms-3/19671fc1997f1bc78c4a410bcddde98c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/iotiq/.gradle/caches/transforms-3/19671fc1997f1bc78c4a410bcddde98c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/iotiq/.gradle/caches/transforms-3/19671fc1997f1bc78c4a410bcddde98c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/iotiq/.gradle/caches/transforms-3/19671fc1997f1bc78c4a410bcddde98c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /home/iotiq/.gradle/caches/transforms-3/19671fc1997f1bc78c4a410bcddde98c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/iotiq/.gradle/caches/transforms-3/19671fc1997f1bc78c4a410bcddde98c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/iotiq/.gradle/caches/transforms-3/19671fc1997f1bc78c4a410bcddde98c/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/iotiq/.gradle/caches/transforms-3/e0cc21210d80d107406dd897252daa31/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/iotiq/.gradle/caches/transforms-3/e0cc21210d80d107406dd897252daa31/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/iotiq/.gradle/caches/transforms-3/e0cc21210d80d107406dd897252daa31/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+uses-permission#android.permission.BLUETOOTH_CONNECT
+ADDED from [com.voximplant:voximplant-sdk:2.35.2] /home/iotiq/.gradle/caches/transforms-3/fa6e6261a3a41c602b68de26b7502491/transformed/jetified-voximplant-sdk-2.35.2/AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from [com.voximplant:voximplant-sdk:2.35.2] /home/iotiq/.gradle/caches/transforms-3/fa6e6261a3a41c602b68de26b7502491/transformed/jetified-voximplant-sdk-2.35.2/AndroidManifest.xml:12:22-73
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from [com.voximplant:voximplant-sdk:2.35.2] /home/iotiq/.gradle/caches/transforms-3/fa6e6261a3a41c602b68de26b7502491/transformed/jetified-voximplant-sdk-2.35.2/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from [com.voximplant:voximplant-sdk:2.35.2] /home/iotiq/.gradle/caches/transforms-3/fa6e6261a3a41c602b68de26b7502491/transformed/jetified-voximplant-sdk-2.35.2/AndroidManifest.xml:14:22-76

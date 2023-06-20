@@ -50,7 +50,7 @@ const OngoingCallScreen = () => {
 
     task.then(() => {
       console.log('Image uploaded to the bucket!');
-      navigation.navigate('HomeRoutes')
+      navigation.navigate('AnalyzeScreen')
     });
 
   }

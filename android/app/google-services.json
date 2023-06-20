@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "923556583827",
+    "project_id": "emocall-edd87",
+    "storage_bucket": "emocall-edd87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923556583827:android:5e1ef203f6288ad339f066",
+        "android_client_info": {
+          "package_name": "com.deneme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923556583827-tr1377phc67jpi9b72d1p51vo4u2cl7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0WjOjj3Ry8dSxHPEQRya-1iUv6X3HXlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923556583827-tr1377phc67jpi9b72d1p51vo4u2cl7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

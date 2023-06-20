@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">923556583827-tr1377phc67jpi9b72d1p51vo4u2cl7t.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">923556583827</string>
+    <string name="google_api_key" translatable="false">AIzaSyB0WjOjj3Ry8dSxHPEQRya-1iUv6X3HXlE</string>
+    <string name="google_app_id" translatable="false">1:923556583827:android:5e1ef203f6288ad339f066</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB0WjOjj3Ry8dSxHPEQRya-1iUv6X3HXlE</string>
+    <string name="google_storage_bucket" translatable="false">emocall-edd87.appspot.com</string>
+    <string name="project_id" translatable="false">emocall-edd87</string>
+</resources>
