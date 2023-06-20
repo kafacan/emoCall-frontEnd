@@ -9,6 +9,8 @@ export const customStyles = StyleSheet.create({
                 height:45,
                 elevation:3,
                 letterSpacing: 0.25,
+                backgroundColor: 'steelblue',
+                color:'white' // Added this
 
             },
             text: {
@@ -23,7 +25,8 @@ export const customStyles = StyleSheet.create({
                 height:45,
                 elevation:3,
                 borderColor: theme.colors.primary,
-
+                borderWidth: 1, // Added this
+                backgroundColor: 'white', // And this
             },
             text: {
                 fontSize: 16,

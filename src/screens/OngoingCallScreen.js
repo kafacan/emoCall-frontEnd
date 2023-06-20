@@ -219,17 +219,19 @@ const OngoingCallScreen = () => {
   </View>)
   }
   return (
-    <View style={{flex:2}}>
-      <View style={{flex:1}}>
+    <View style={{flex:2,minWidth:'100%'}}>
+      <View style={{flex:1,backgroundColor:'transparent'}}>
         <Voximplant.VideoView
           videoStreamId={remoteVideoStreamId}
-          style={{...StyleSheet.absoluteFillObject, zIndex: 1,width:'100%'}}
+          style={{...StyleSheet.absoluteFillObject, zIndex: 1,minWidth:'100%'}}
+          scaleType={Voximplant.RenderScaleType.SCALE_FILL}
         />
       </View>
       <View style={{flex:1,width:'100%'}}>
         <Voximplant.VideoView
           videoStreamId={localVideoStreamId}
           style={{...StyleSheet.absoluteFillObject, zIndex: 1}}
+          scaleType={Voximplant.RenderScaleType.SCALE_FILL}
         />
       </View>
       <CallActionBox onHangupPress={onHangupPress} />

@@ -20,14 +20,14 @@ const Landing = () => {
                 </View>
                 <View style={{ width:'100%', alignItems: 'center', justifyContent: 'flex-start',backgroundColor:'white',borderTopStartRadius:24,borderTopEndRadius:24,rowGap:20,paddingTop:20 }}>
                     <View style={{alignItems: 'center', justifyContent: 'flex-start'}}>
-                        <Text style={{fontSize:32,fontWeight:'600'}}>Welcome</Text>
-                        <Text style={{fontSize:16,fontWeight:'400'}}>Get started with your account</Text>
+                        <Text style={{color: theme.colors.primary,fontSize:32,fontWeight:'600'}}>Welcome</Text>
+                        <Text style={{color: theme.colors.primary, fontSize:16,fontWeight:'400'}}>Get started with your account</Text>
                     </View>
                     <View style={{width:'100%',padding:24,gap:12}}>
-                        <Button style={styles.buttons.contained.container} contentStyle={styles.buttons.contained.container} labelStyle={styles.buttons.contained.text} buttonColor={theme.colors.primary} mode="contained" onPress={()=>navigation.navigate('Sign In')}>
+                        <Button style={styles.buttons.contained.container} mode="contained" onPress={()=>navigation.navigate('Sign In')}>
                             Sign In
                         </Button>
-                        <Button style={styles.buttons.contained.container} contentStyle={styles.buttons.contained.container} labelStyle={styles.buttons.contained.text} buttonColor={theme.colors.secondary} textColor={theme.colors.primary} mode="contained" onPress={()=>navigation.navigate('Sign Up')}>
+                        <Button style={styles.buttons.outlined.container} textColor={theme.colors.primary}  mode="contained" onPress={()=>navigation.navigate('Sign Up')}>
                             Sign Up
                         </Button>
                     </View>

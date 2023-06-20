@@ -12,7 +12,7 @@ const RegisterForm = ({confirmPassword,setConfirmPassword,name,setName,email,pas
         <>
             <View style={{width:'100%',alignItems: 'center', justifyContent: 'center',backgroundColor:'white',borderRadius:8}}>
                 <View style={{alignItems: 'center', justifyContent: 'center',flexDirection:'row'}}>
-                    <Text style={{flex:0.3, fontSize:16, margin:8}}>Name</Text>
+                    <Text style={{color: 'black',flex:0.3, fontSize:16, margin:8}}>Name</Text>
                     <TextInput
                         value={name}
                         onChangeText={(value) => {setName(value)}}
@@ -23,8 +23,8 @@ const RegisterForm = ({confirmPassword,setConfirmPassword,name,setName,email,pas
                 <View style={{width:'90%'}}>
                     <Divider lineColor={theme.colors.secondary} />
                 </View>
-                <View style={{alignItems: 'center', justifyContent: 'center',flexDirection:'row'}}>
-                    <Text style={{flex:0.3, fontSize:16, margin:8}}>Email</Text>
+                <View style={{color: 'black',alignItems: 'center', justifyContent: 'center',flexDirection:'row'}}>
+                    <Text style={{color: 'black',flex:0.3, fontSize:16, margin:8}}>Email</Text>
                     <TextInput
                         value={email}
                         onChangeText={(value) => {setEmail(value)}}
@@ -35,8 +35,8 @@ const RegisterForm = ({confirmPassword,setConfirmPassword,name,setName,email,pas
                 <View style={{width:'90%'}}>
                     <Divider lineColor={theme.colors.secondary} />
                 </View>
-                <View style={{alignItems: 'center', justifyContent: 'center',flexDirection:'row'}}>
-                    <Text style={{flex:0.3, fontSize:16, margin:8}}>Password</Text>
+                <View style={{color: 'black', alignItems: 'center', justifyContent: 'center',flexDirection:'row'}}>
+                    <Text style={{color: 'black', flex:0.3, fontSize:16, margin:8}}>Password</Text>
                     <TextInput
                         value={password}
                         onChangeText={(value) => {setPassword(value)}}
@@ -49,7 +49,7 @@ const RegisterForm = ({confirmPassword,setConfirmPassword,name,setName,email,pas
                     <Divider lineColor={theme.colors.secondary} />
                 </View>
                 <View style={{alignItems: 'center', justifyContent: 'center',flexDirection:'row'}}>
-                    <Text style={{flex:0.3, fontSize:16, margin:8}}>Password</Text>
+                    <Text style={{color: 'black', flex:0.3, fontSize:16, margin:8}}>Password</Text>
                     <TextInput
                         value={confirmPassword}
                         onChangeText={(value) => {setConfirmPassword(value)}}
@@ -60,7 +60,7 @@ const RegisterForm = ({confirmPassword,setConfirmPassword,name,setName,email,pas
                 </View>
             </View>
             <View style={{rowGap:8}}>
-                <Button style={styles.buttons.contained.container} contentStyle={styles.buttons.contained.container} labelStyle={styles.buttons.contained.text} buttonColor={theme.colors.primary} mode="contained" onPress={handleSignUp}>
+                <Button style={styles.buttons.contained.container} mode="contained" onPress={handleSignUp}>
                     Sign Up
                 </Button>
             </View>

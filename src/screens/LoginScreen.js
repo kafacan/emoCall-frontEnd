@@ -49,7 +49,7 @@ const LoginScreen = () => {
                 </View>
                 <View style={{flex:1,justifyContent:'flex-end',rowGap:8,marginBottom:32}}>
                     <Text style={{color:'dimgrey',textAlign:'center'}}>Don't have an account?</Text>
-                    <Button style={styles.buttons.outlined.container} textColor={theme.colors.primary} contentStyle={styles.buttons.outlined.container} labelStyle={styles.buttons.outlined.text} mode="outlined" onPress={async ()=>{navigation.navigate('Sign Up')}}>
+                    <Button style={styles.buttons.outlined.container} textColor={theme.colors.primary}  mode="outlined" onPress={async ()=>{navigation.navigate('Sign Up')}}>
                         Register
                     </Button>
                 </View>

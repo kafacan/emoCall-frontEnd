@@ -41,7 +41,7 @@ const SignUpScreen = () => {
                 </View>
                 <View style={{flex:1,justifyContent:'flex-end',rowGap:8,marginBottom:32}}>
                     <Text style={{color:'dimgrey',textAlign:'center'}}>Already have an account?</Text>
-                    <Button style={styles.buttons.outlined.container} textColor={theme.colors.primary} contentStyle={styles.buttons.outlined.container} labelStyle={styles.buttons.outlined.text} mode="outlined" onPress={()=>{navigation.navigate('Sign In')}}>
+                    <Button style={styles.buttons.outlined.container} textColor={theme.colors.primary} mode="outlined" onPress={()=>{navigation.navigate('Sign In')}}>
                         Sign In
                     </Button>
                 </View>

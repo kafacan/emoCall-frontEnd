@@ -37,7 +37,7 @@ const LoginForm = ({email,password,setEmail,setPassword,handleSignIn}) => {
                 </View>
             </View>
             <View style={{rowGap:8}}>
-                <Button style={styles.buttons.contained.container} contentStyle={styles.buttons.contained.container} labelStyle={styles.buttons.contained.text} buttonColor={theme.colors.primary} mode="contained" onPress={handleSignIn}>
+                <Button style={styles.buttons.contained.container} mode="contained" onPress={handleSignIn}>
                     Sign In
                 </Button>
                 <Pressable>

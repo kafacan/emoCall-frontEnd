@@ -26,7 +26,7 @@ import {Voximplant} from 'react-native-voximplant'
 import IncomingCallScreen from './src/screens/IncomingCallScreen';
 import { useNavigation } from '@react-navigation/core';
 import OngoingCallScreen from './src/screens/OngoingCallScreen';
-import analyzeScreen from './src/screens/AnalyzeScreen';
+import AnalyzeScreen from './src/screens/AnalyzeScreen';
 
 const theme = customTheme
 const Stack = createNativeStackNavigator();
@@ -78,7 +78,7 @@ function CallingRoutes() {
           <Stack.Screen name="Call" component={CallScreen} options={{headerShown:false}} />
           <Stack.Screen name="IncomingCallScreen" component={IncomingCallScreen} options={{headerShown:false}} />
           <Stack.Screen name="OngoingCallScreen" component={OngoingCallScreen} options={{headerShown:false}} />
-          <Stack.Screen name="AnalyzeScreen" component={analyzeScreen} options={{headerShown:false}} />
+          <Stack.Screen name="AnalyzeScreen" component={AnalyzeScreen} options={{headerShown:false}} />
       </Stack.Navigator>
   );
 }

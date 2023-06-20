@@ -10,17 +10,17 @@ export default dummyContact = [
       photoUrl: require("../assests/Cemhan.jpeg")
     },
     {
-      name: "kamil",
+      name: "Kamil",
       id: 3,
       photoUrl: require("../assests/Kamil.jpg")
     },
     {
-      name: "gozde",
+      name: "Gözde",
       id: 4,
       photoUrl: require("../assests/Gozde.jpeg")
     },
     {
-      name: "zeynep",
+      name: "Zeynep",
       id: 5,
       photoUrl: require("../assests/Zeynep.jpeg")
     },
